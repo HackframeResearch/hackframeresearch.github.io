@@ -91,6 +91,7 @@ h1.title {
 .blog-image {
   display: block;
   max-width: 40%;
+  min-width: 300px;
   height: auto;
   margin: 1.5rem auto;
   border-radius: 8px;
